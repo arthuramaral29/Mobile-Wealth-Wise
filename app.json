@@ -20,11 +20,6 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.mobilewealthwise"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "77f06a2c-f6f3-4a01-83a5-9e35386916b7"
-      }
     }
   }
 }
